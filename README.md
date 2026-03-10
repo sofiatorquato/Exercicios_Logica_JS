@@ -38,4 +38,5 @@ Este repositório contém resoluções de exercícios fundamentais para consolid
 ## 🚀 Como Executar
 1. Clone o projeto:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+   git clone https://github.com/sofiatorquato/Exercicios_Logica_JS.git
+
