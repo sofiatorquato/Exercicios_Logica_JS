@@ -5,4 +5,4 @@ let aux = A;
 A = B;
 B = aux;
 
-alert("A ="+ A+ "\nB = "+ aux);
+alert("A =" + A + "\nB = " + B);
